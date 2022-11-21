@@ -1,0 +1,4 @@
+A web crawler is a software program which browsers the world wide wweb in a methodical and automated manner.
+it collects documents by recursively fetching links from a set of starting pages.
+a)uses of web crawlers:
+to test web pages and links for valid syntax and structure.

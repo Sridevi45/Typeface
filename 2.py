@@ -5,4 +5,5 @@ x=s2[len(s2)-1]
 for i in s1:
   if i==x:
     c+=1
+    
 print(c)
